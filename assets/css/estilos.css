@@ -3,7 +3,7 @@ ul {
     padding: 0;
     overflow: hidden;
     list-style-type: none;
-    background-color: #40106d;
+    background-color: #823cc4;
    }
    li {
     float: left;
@@ -15,10 +15,10 @@ ul {
     text-decoration: none;
    }
    li a:hover {
-    background-color: #921f12;
+    background-color: #964138;
    }
    .activo {
-    background-color: #a32615;
+    background-color: #924136;
    }
    .derecha {
     float: right;
